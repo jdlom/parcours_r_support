@@ -1,0 +1,12 @@
+name: "parcours_r_support"
+title: "Supports de formation"
+theme: "gouvfr.css"
+favicon: "dist/favicons/android-chrome-192x192.png"
+description: |
+  Supports de formation
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Accueil"
+      href: index.html
+output: distill::distill_article

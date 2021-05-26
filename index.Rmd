@@ -1,0 +1,26 @@
+---
+title: "Supports de formation"
+description: |
+  Les supports sont diffusés en licence ouverte et peuvent être utilisés pour mener des formations à R en citant les contributeurs et la source.
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+
+## GIT sous RStudio (ThinkR)
+
+1.  [GIT : ce qu'il faut savoir](supports/formation GIT/1-git_intro.pdf "GIT : ce qu'il faut savoir"){target="_blank"}
+2.  [Configurer GIT](supports/formation GIT/2-git.pdf "Configurer GIT"){target="_blank"}
+3.  [GIT au quotidien](supports/formation GIT/3-git.pdf "GIT au quotidien"){target="_blank"}
+4.  [GIT un peu plus en détail](supports/formation GIT/4-git.pdf "GIT un peu plus en détail"){target="_blank"}
+5.  [Ennoncé TD](supports/formation GIT/ennoncé TD.pdf "Ennoncé TD"){target="_blank"}
