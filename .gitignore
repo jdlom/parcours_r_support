@@ -2,5 +2,12 @@
 .Rhistory
 .RData
 .Ruserdata
+.Rprofile
+
+#build repository
 docs/
+
 core
+
+#renv
+renv/
