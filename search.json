@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\nVoila\n\n\n\n",
-      "last_modified": "2021-05-28T08:05:59+00:00"
+      "last_modified": "2021-05-31T14:05:37+00:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "Les supports sont diffusés en licence ouverte et peuvent être utilisés pour mener des formations à R en citant les contributeurs et la source.\n",
       "author": [],
       "contents": "\nGIT sous RStudio (ThinkR)\nGIT : ce qu’il faut savoir\nConfigurer GIT\nGIT au quotidien\nGIT un peu plus en détail\nEnnoncé TD\n\n\n\n",
-      "last_modified": "2021-05-28T08:06:00+00:00"
+      "last_modified": "2021-05-31T14:05:37+00:00"
     }
   ],
   "collections": []
